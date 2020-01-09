@@ -1,4 +1,4 @@
-# LeetCode/3.Longest_Substring_Without_Repeating_Characters
+# LeetCode-3.Longest_Substring_Without_Repeating_Characters
 
 Given a string, find the length of the longest substring without repeating characters.
 
